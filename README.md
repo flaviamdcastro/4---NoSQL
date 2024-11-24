@@ -1,6 +1,6 @@
 # XPTO Clube de Compras - Trabalho Final Banco de Dados NoSQL
 
-## MBA Engenharia de Dados - Sirius Educação
+## MBA Engenharia de Dados - Sirius Educação e Comunidade de Estatística do professor Thiago Marques
 
 Este repositório contém o trabalho final da disciplina de Banco de Dados NoSQL do curso de MBA em Engenharia de Dados da faculdade Sirius Educação. O trabalho aborda os desafios e soluções para a escalabilidade, modelagem de dados e manutenção da plataforma XPTO Clube de Compras.
 
